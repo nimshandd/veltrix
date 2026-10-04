@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local Android configuration
+local.properties
+
+# IDE files
+.idea/
+*.iml
+
+# Kotlin
+.kotlin/
+
+# Generated APKs and mapping files
+*.apk
+*.aab
+*.mapping
+
+# OS files
+.DS_Store
+Thumbs.db
